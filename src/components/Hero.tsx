@@ -13,7 +13,7 @@ const Hero = () => {
           <div className="mb-8">
             <div className="w-36 h-36 mx-auto mb-6 rounded-full overflow-hidden shadow-xl transition-transform duration-300 hover:scale-110">
               <img
-                src="public/Ansh.jpg"
+                src="src\public\Ansh.jpg"
                 alt="Ansh Kumar Singh"
                 className="w-full h-full object-cover"
               />
