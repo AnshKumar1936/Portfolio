@@ -11,12 +11,13 @@ const Hero = () => {
         <div className="text-center">
           {/* Profile Picture */}
           <div className="mb-8">
-            <div className="w-36 h-36 mx-auto mb-6 rounded-full overflow-hidden shadow-xl transition-transform duration-300 hover:scale-110">
-              <img
+            <div className="w-36 h-36 mx-auto mb-6 rounded-full overflow-hidden shadow-xl transition-transform duration-300 hover:scale-110 bg-gradient-to-br from-blue-600 to-purple-600 flex items-center justify-center text-white text-4xl font-bold">
+              AK
+{/*               <img
                 src="/Ansh.jpg"
                 alt="Ansh Kumar Singh"
                 className="w-full h-full object-cover"
-              />
+              /> */}
             </div>
           </div>
 
